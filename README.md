@@ -57,7 +57,7 @@ Entrando no Splunk:
     - No browser acesse: http://localhost:4000/
     - Uma tela de login será exibida, acesse com:
         - user : admin.
-        -password: está no docker-compose.yml
+        - password: está no docker-compose.yml
 
 Configurando o Token de acesso do Splunk:
 
